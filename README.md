@@ -1,30 +1,36 @@
-<!-- ## Hi There! I'm Andhika 👋 -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=andhikkadd"/>
 
-![banner](img/banner.png)
+</p>
 
-
+## Hi There! I'm Andhika 👋
 
 ![Hello](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW95OWRubHJ4cTJmNWVoZDEyaWFvemVpN254M25udGU5MHJtd2o4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CIe1iwzke30wU/giphy.gif)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andhikkadd&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikkadd&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andhikkadd&theme=tokyonight)
-
-![Snake animation](https://github.com/andhikkadd/andhikkadd/blob/output/github-contribution-grid-snake.svg)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andhikkadd&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andhikkadd)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andhikkadd)
+## Skills
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<!-- <img src="" /> -->
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=andhikkadd)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=andhikkadd)
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME_KAMU&repo=andhikkadd)
 
-![Metrics](https://metrics.lecoq.io/andhikkadd)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andhikkadd&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikkadd&layout=compact&theme=transparent)
+
+
+
+
+
+
+
+---
+
+Moving Slow, still moving
