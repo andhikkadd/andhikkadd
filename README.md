@@ -9,11 +9,9 @@
 
 ---
 
-![andhikkadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2026)
-
-![andhikkadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=andhikkadd&commits_year=2026)
-
-![andhikkadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=andhikkadd&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=andhikkadd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img
