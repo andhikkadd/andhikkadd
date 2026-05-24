@@ -11,14 +11,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=andhikkadd&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=andhikkadd&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;v=2"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikkadd&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikkadd&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;v=2"
     alt="Top Languages"
   />
 </p>
