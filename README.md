@@ -9,7 +9,8 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andhikkadd&hide=contribs,prs)
+![andhikkadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Andhikkadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=andhikkadd&hide=contribs,prs)
 
 <p align="center">
   <img
